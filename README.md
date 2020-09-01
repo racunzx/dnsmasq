@@ -6,7 +6,7 @@ Dnsmasq为小型网络提供网络基础设施：DNS，DHCP，路由器通告和
 本站dnsmasq分流脚本有什么作用？
 1.根据系统安装dnsmasq。
 
-2.默认写入netflix相关的规则并指定DNS。
+2.默认写入netflix，mytvsuper，viu，动画疯，abema，dmm相关的规则并指定DNS。
 
 3.修改系统DNS为127.0.0.1，作用是使网络域名解析在dnsmasq上进行。
 
