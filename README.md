@@ -22,7 +22,7 @@ Dnsmasq为小型网络提供网络基础设施：DNS，DHCP，路由器通告和
 
 1.最后DNS为变量,就是需要你自行修改成想用的DNS,格式必须为。
 
-wget https://raw.githubusercontent.com/evaslr/dnsmasq/master/unlock.sh && chmod +x unlock.sh && ./unlock.sh 8.8.8.8
+wget --no-check-certificate https://raw.githubusercontent.com/evaslr/dnsmasq/master/unlock.sh && chmod +x unlock.sh && ./unlock.sh 8.8.8.8
 
 									
 2.已测试过阿里云系统C7、D9、u6。推荐C7，其它两个或多或少有点小问题
