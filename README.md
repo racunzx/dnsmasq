@@ -1,4 +1,4 @@
-# dnsmasq
+# dnsmasq ...
 dnsmasq分流详解
 一、dnsmasq是什么?
 Dnsmasq为小型网络提供网络基础设施：DNS，DHCP，路由器通告和网络引导。它被设计为轻量级且占用空间小，适用于资源受限的路由器和防火墙。它还被广泛用于智能手机和便携式热点的共享，并支持虚拟化框架中的虚拟网络。支持的平台包括Linux（带有glibc和uclibc），Android，* BSD和Mac OS X. Dnsmasq包含在大多数Linux发行版以及FreeBSD，OpenBSD和NetBSD的端口系统中。Dnsmasq提供完整的IPv6支持
